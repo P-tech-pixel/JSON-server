@@ -1,0 +1,116 @@
+{
+  "product": [
+    {
+      "product_name": "Samrat",
+      "product_type": "Pandit",
+      "product": "p",
+      "id": 1
+    }
+  ],
+  "customer": [
+    {
+      "first_name": "Samrat",
+      "last_name": "Pandit",
+      "email": "prashanta927pandit@gmail.com",
+      "mobile_number": "0416178360",
+      "customer_address": "74-80 Woniora Road",
+      "id": 1
+    },
+    {
+      "first_name": "Prashanta",
+      "last_name": "Pandit",
+      "email": "prashanta927pandit@gmail.com",
+      "mobile_number": "0416178360",
+      "customer_address": "74-80 Woniora Road",
+      "id": 2
+    },
+    {
+      "first_name": "Sugam ",
+      "last_name": "Malla",
+      "email": "sugam@gmail.com",
+      "mobile_number": "0998876789",
+      "customer_address": "sdghs",
+      "id": 3
+    },
+    {
+      "first_name": "sjdfkjsd",
+      "last_name": "skdjks",
+      "email": "skldkjs",
+      "mobile_number": "sld",
+      "customer_address": "sldl",
+      "id": 7
+    },
+    {
+      "first_name": "Prashanta",
+      "last_name": "Pandit",
+      "email": "prashanta927pandit@gmail.com",
+      "mobile_number": "0416178360",
+      "customer_address": "74-80 Woniora Road",
+      "id": 8
+    },
+    {
+      "first_name": "Prashanta",
+      "last_name": "Pandit",
+      "email": "prashanta927pandit@gmail.com",
+      "mobile_number": "0416178360",
+      "customer_address": "74-80 Woniora Road",
+      "id": 9
+    },
+    {
+      "first_name": "Simanta ",
+      "last_name": "",
+      "email": "",
+      "mobile_number": "",
+      "customer_address": "",
+      "id": 10
+    },
+    {
+      "user": {
+        "email": "prashanta927pandit@gmail.com"
+      },
+      "id": 11
+    },
+    {
+      "user": {
+        "email": "prandit@gmail.com"
+      },
+      "id": 12
+    },
+    {
+      "user": {
+        "email": "74-80 Woniora Road"
+      },
+      "id": 13
+    },
+    {
+      "user": {
+        "email": "prashanta927pandit@gmail.com",
+        "fname": "Prashanta",
+        "lname": "Pandit",
+        "mobileNumber": "+61416178360",
+        "address": "74-80 Woniora Road"
+      },
+      "id": 14
+    },
+    {
+      "user": {
+        "email": "prashanta927pandit@gmail.com",
+        "fname": "Prashanta",
+        "lname": "Pandit",
+        "mobileNumber": "+61416178360",
+        "address": "74-80 Woniora Road"
+      },
+      "id": 15
+    },
+    {
+      "customer": {
+        "email": "prashanta927pandit@gmail.com",
+        "fname": "Prashanta",
+        "lname": "Pandit",
+        "mobileNumber": "+61416178360",
+        "address": "74-80 Woniora Road"
+      },
+      "id": 16
+    }
+  ]
+}

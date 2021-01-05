@@ -1,0 +1,51 @@
+{
+  "product": [
+    {
+      "title": "Home",
+      "price": "Aus $ 2.1 M",
+      "uploaded_date": "2020-12-29T16:03",
+      "discount_price": "Aus 200K",
+      "category": "",
+      "description": "It is so nice House.",
+      "product_address": "74-80 Woniora ",
+      "product_image": "Home",
+      "id": 1
+    },
+    {
+      "title": "Home",
+      "price": "Aus $ 2.1 M",
+      "uploaded_date": "2020-12-31T10:09",
+      "discount_price": "2455K",
+      "description": "What a beautiful house",
+      "product_address": "1 Graf Avenue",
+      "product_image": "Home",
+      "id": 2
+    }
+  ],
+  "customer": [
+    {
+      "first_name": "Prashanta",
+      "last_name": "Pandit",
+      "email": "prashanta.roba@gmail.com",
+      "mobile_number": "0416178360",
+      "customer_address": "74-80 Woniora Road",
+      "id": 1
+    },
+    {
+      "first_name": "Prashanta",
+      "last_name": "Pandit",
+      "email": "prashanta927pandit@gmail.com",
+      "mobile_number": "0416178360",
+      "customer_address": "74-80 Woniora Road",
+      "id": 2
+    },
+    {
+      "first_name": "Prashanta",
+      "last_name": "Pandit",
+      "email": "prashanta927pandit@gmail.com",
+      "mobile_number": "0416178360",
+      "customer_address": "74-80 Woniora Road",
+      "id": 3
+    }
+  ]
+}
